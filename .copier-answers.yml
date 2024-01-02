@@ -1,0 +1,19 @@
+_commit: 735502e
+_src_path: gh:bswck/skeleton
+author_username: bswck
+docs: true
+docs_slug: skeleton-demo
+email_address: bswck.dev@gmail.com
+github_username: bswck
+license_name: MIT
+org_full_name: Bartosz Sławecki
+package_name: skeleton_demo
+project_description: A skeleton demonstration repo.
+publish_on_pypi: true
+pypi_project_description: A skeleton demonstration repo.
+pypi_project_name: skeleton-demo
+python_version: '3.8'
+repo_name: skeleton-demo
+tests: true
+use_precommit: true
+visibility: public
